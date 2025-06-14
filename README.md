@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
+[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/jdg2896)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jdg2896) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
@@ -26,16 +26,16 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ## 📖 Read My Blogs:
 
 <p>
-    <a target="_blank"href="https://dev.to/kshyun28"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://kshyun28.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://medium.com/@kshyun28"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://dev.to/jdg2896"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://jdg2896.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://medium.com/@jdg2896"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kshyun28&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyun28&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jdg2896&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdg2896&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
 ## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
