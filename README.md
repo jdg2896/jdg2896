@@ -21,7 +21,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, Python, AWS, GCP, Azure, Solidity, Docker, PostgreSQL](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,py,aws,gcp,azure,solidity,docker,postgres)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
