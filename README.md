@@ -31,13 +31,6 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
     <a target="_blank"href="https://medium.com/@jdg2896"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
-## 🏆 My Stats:
-
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jdg2896&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdg2896&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
-
 ## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
 
 <p>
