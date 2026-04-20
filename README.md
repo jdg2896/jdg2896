@@ -9,8 +9,9 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
-- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- 🌱 I’m passionate about learning, [serverless in AWS](https://aws.amazon.com/serverless/), and [Web3](https://ethereum.org/en/web3/).
+- 📚 I constantly improve my development workflows and processes.
+- 🏆 I contribute to [open source](https://opensource.com/resources/what-open-source) whenever I can.
 - ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
 
 <div align="center">
@@ -23,9 +24,10 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 [![Next.js, Svelte, Node.js, JavaScript, TypeScript, Python, AWS, GCP, Azure, Solidity, Docker, PostgreSQL](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,py,aws,gcp,azure,solidity,docker,postgres)](https://skillicons.dev)
 
-## 📖 Read My Blogs:
+## 📖 Read My Blog:
 
 <p>
+    <a target="_blank"href="https://jaspergabriel.dev"><img alt="jaspergabriel.dev" src="https://img.shields.io/badge/blog-black?style=for-the-badge" /></a>&nbsp;&nbsp;
     <a target="_blank"href="https://dev.to/jdg2896"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
     <a target="_blank"href="https://jdg2896.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
     <a target="_blank"href="https://medium.com/@jdg2896"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
