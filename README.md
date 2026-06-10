@@ -9,10 +9,10 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🌱 I’m passionate about learning, [serverless in AWS](https://aws.amazon.com/serverless/), and [Web3](https://ethereum.org/en/web3/).
-- 📚 I constantly improve my development workflows and processes.
+- 🌱 I’m passionate about learning to be 1% better at software engineering every work day.
+- 📚 I constantly improve my development workflows and processes, currently integrating agents into my workflow.
 - 🏆 I contribute to [open source](https://opensource.com/resources/what-open-source) whenever I can.
-- ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
+- ⚡ Fun fact: I play video games, read books, play the piano, and sleep with my dogs!
 
 <div align="center">
 
