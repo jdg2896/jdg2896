@@ -1,0 +1,38 @@
+{
+    "description": "This assures that the student completed Double Your DeFi - Cohort #2 with excellency. Did all assignments and engaged with the community.\n\nA dedicated and valuable member of The DeFi Edge Community.",
+    "external_url": "https://api.poap.tech/metadata/125228/6673781",
+    "home_url": "https://app.poap.xyz/token/6673781",
+    "image_url": "https://assets.poap.xyz/0c6eaacb-d527-479b-8a0e-d9e60726851d.png",
+    "name": "Double Your DeFi - Cohort #2",
+    "year": 2023,
+    "tags": [
+        "poap",
+        "event"
+    ],
+    "attributes": [
+        {
+            "trait_type": "startDate",
+            "value": "02-Jun-2023"
+        },
+        {
+            "trait_type": "endDate",
+            "value": "01-Aug-2023"
+        },
+        {
+            "trait_type": "virtualEvent",
+            "value": "true"
+        },
+        {
+            "trait_type": "city",
+            "value": ""
+        },
+        {
+            "trait_type": "country",
+            "value": ""
+        },
+        {
+            "trait_type": "eventURL",
+            "value": "https://go.doubleyourdefi.com/"
+        }
+    ]
+}

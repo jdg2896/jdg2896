@@ -1,0 +1,38 @@
+{
+    "description": "This POAP goes to everyone who contributed to ZK-Roller-Coaster, Taiko zk-research digest.",
+    "external_url": "https://api.poap.tech/metadata/128736/6738676",
+    "home_url": "https://app.poap.xyz/token/6738676",
+    "image_url": "https://assets.poap.xyz/taiko-research-contributors-2023-logo-1685987761596.png",
+    "name": "Taiko Research Contributors",
+    "year": 2023,
+    "tags": [
+        "poap",
+        "event"
+    ],
+    "attributes": [
+        {
+            "trait_type": "startDate",
+            "value": "05-Jun-2023"
+        },
+        {
+            "trait_type": "endDate",
+            "value": "05-Jun-2023"
+        },
+        {
+            "trait_type": "virtualEvent",
+            "value": "true"
+        },
+        {
+            "trait_type": "city",
+            "value": ""
+        },
+        {
+            "trait_type": "country",
+            "value": ""
+        },
+        {
+            "trait_type": "eventURL",
+            "value": ""
+        }
+    ]
+}

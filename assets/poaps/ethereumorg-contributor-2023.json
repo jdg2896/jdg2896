@@ -1,0 +1,38 @@
+{
+    "description": "You made at least one contribution to the Ethereum.org project in 2023. Your contributions are greatly appreciated!",
+    "external_url": "https://api.poap.tech/metadata/92917/6690207",
+    "home_url": "https://app.poap.xyz/token/6690207",
+    "image_url": "https://assets.poap.xyz/gitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png",
+    "name": "GitPOAP: 2023 Ethereum.org Contributor",
+    "year": 2022,
+    "tags": [
+        "poap",
+        "event"
+    ],
+    "attributes": [
+        {
+            "trait_type": "startDate",
+            "value": "20-Dec-2022"
+        },
+        {
+            "trait_type": "endDate",
+            "value": "20-Dec-2023"
+        },
+        {
+            "trait_type": "virtualEvent",
+            "value": "true"
+        },
+        {
+            "trait_type": "city",
+            "value": ""
+        },
+        {
+            "trait_type": "country",
+            "value": ""
+        },
+        {
+            "trait_type": "eventURL",
+            "value": "https://github.com/ethereum/ethereum-org-website"
+        }
+    ]
+}

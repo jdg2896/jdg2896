@@ -1,0 +1,38 @@
+{
+    "description": "You made at least one contribution to the Taiko project in 2023. Your contributions are greatly appreciated!",
+    "external_url": "https://api.poap.tech/metadata/93222/6688409",
+    "home_url": "https://app.poap.xyz/token/6688409",
+    "image_url": "https://assets.poap.xyz/gitpoap3a-2023-taiko-contributor-2022-logo-1671723111328.png",
+    "name": "GitPOAP: 2023 Taiko Contributor",
+    "year": 2022,
+    "tags": [
+        "poap",
+        "event"
+    ],
+    "attributes": [
+        {
+            "trait_type": "startDate",
+            "value": "22-Dec-2022"
+        },
+        {
+            "trait_type": "endDate",
+            "value": "22-Dec-2023"
+        },
+        {
+            "trait_type": "virtualEvent",
+            "value": "true"
+        },
+        {
+            "trait_type": "city",
+            "value": ""
+        },
+        {
+            "trait_type": "country",
+            "value": ""
+        },
+        {
+            "trait_type": "eventURL",
+            "value": "https://github.com/taikoxyz/taiko-mono"
+        }
+    ]
+}
