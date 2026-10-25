@@ -32,58 +32,25 @@ Blog home page, conference and social bios.
 Software engineer specializing in backend systems and cloud infrastructure, with an interest in cryptography, zero-knowledge proofs, and cybersecurity.
 ```
 
-## CV summary
-
-Bold **8 years of experience**, **4 in blockchain**, **backend systems and
-cloud infrastructure**, and **fintech and crypto**.
-
-```
-Software Engineer with 8 years of experience, including 4 in blockchain, specializing in backend systems and cloud infrastructure. I build and maintain production-grade systems for fintech and crypto, including FATF-compliant Travel Rule solutions, escrow smart contracts, and fiat-to-crypto payment systems. I also drive engineering excellence in fast-paced startup environments, leading security audits, infrastructure migrations, and technical documentation standards.
-```
-
-## LinkedIn About
-
-The CV summary, plus interests and contact. Plain text, since LinkedIn
-doesn't support bold.
-
-```
-Software Engineer with 8 years of experience, including 4 in blockchain, specializing in backend systems and cloud infrastructure. I build and maintain production-grade systems for fintech and crypto, including FATF-compliant Travel Rule solutions, escrow smart contracts, and fiat-to-crypto payment systems. I also drive engineering excellence in fast-paced startup environments, leading security audits, infrastructure migrations, and technical documentation standards.
-
-Outside of work, I'm interested in cryptography, zero-knowledge proofs, and cybersecurity, and I write about what I learn at jaspergabriel.dev.
-
-Feel free to reach out to me directly on LinkedIn or at jasper.d.gabriel@gmail.com. Have a great day!
-```
-
-## Blog About page
-
-Lives in `jaspergabriel.dev/src/pages/about.astro`, followed by a paragraph
-of contact links.
-
-```
-Hello world, I'm Jasper Gabriel, a software engineer specializing in backend systems and cloud infrastructure. I've spent the last 4 years building fintech and crypto products, and I do my best work at early-stage startups, where I get to wear multiple hats and work across the whole stack.
-
-Lately I'm exploring cryptography, zero-knowledge proofs, and cybersecurity.
-
-This site is where I write down what I learn about coding, career, side projects, and anything else that piques my interest.
-
-When I'm not building software, I'm probably reading, playing video games, watching YouTube videos, or playing the piano.
-```
-
 ## Where each version lives
 
-| Platform | Version | Last updated |
-| --- | --- | --- |
-| GitHub bio | One-liner | 2026-10-10 |
-| X bio | One-liner | 2026-10-10 |
-| dev.to bio | One-liner | 2026-10-10 |
-| Hashnode profile tagline | Title only | 2026-10-10 |
-| Hashnode blog description | One-liner | 2026-10-10 |
-| Medium bio | One-liner | 2026-10-10 |
-| GitLab | Title only | 2026-10-10 |
-| LinkedIn headline | One-liner | 2026-10-10 |
-| LinkedIn About | LinkedIn About | 2026-10-10 |
-| CV summary | CV summary | 2026-10-10 |
-| jaspergabriel.dev meta description | One-liner | 2026-10-10 |
-| jaspergabriel.dev home page | Short | 2026-10-10 |
-| jaspergabriel.dev About page | Blog About page | 2026-10-10 |
-| GitHub profile README | Custom bullets, written from the core facts | — |
+Every public professional profile, and which bio version each field gets.
+Profiles with no bio field are listed so none get forgotten.
+
+| Platform | URL | Version | Last updated |
+| --- | --- | --- | --- |
+| GitHub bio | https://github.com/jdg2896 | One-liner | 2026-10-10 |
+| GitHub profile README | https://github.com/jdg2896 | Custom bullets, written from the core facts | — |
+| GitLab | https://gitlab.com/jdg2896 | Title only | 2026-10-10 |
+| LinkedIn headline | https://www.linkedin.com/in/jaspergabriel/ | One-liner | 2026-10-10 |
+| X bio | https://x.com/jdg2896 | One-liner | 2026-10-10 |
+| dev.to bio | https://dev.to/jdg2896 | One-liner | 2026-10-10 |
+| Hashnode profile tagline | https://hashnode.com/@jdg2896 | Title only | 2026-10-10 |
+| Hashnode blog description | https://jdg2896.hashnode.dev | One-liner | 2026-10-10 |
+| Medium bio | https://medium.com/@jdg2896 | One-liner | 2026-10-10 |
+| jaspergabriel.dev meta description | https://jaspergabriel.dev | One-liner | 2026-10-10 |
+| jaspergabriel.dev home page | https://jaspergabriel.dev | Short | 2026-10-10 |
+| Linktree bio | https://linktr.ee/jdg2896 | One-liner | — |
+| Stack Overflow | https://stackoverflow.com/users/14435841/jasper-gabriel | No bio | — |
+| Credly | https://www.credly.com/users/jasper-gabriel | No bio | — |
+| Columbia Plus badges | https://badges.plus.columbia.edu/profile/jdg2896/wallet | No bio | — |
